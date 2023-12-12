@@ -7,3 +7,6 @@ En la página de fundamentos de la ingeniería informática menciono lo visto en
 En la página del tema que yo elegí, hablé del Chiringuito de Minguito. chiringuiro el cual aun no existe pero idea que si que existe ya, contando como surgió la idea, como voy a hacerlo y donde sería, además añadí un menú, el cual es ficticio (sobre todo los precios).
 En la página de información de socios puse varios links que llevan a las páginas de mis compañeros de clase.
 Por último en la página de contactanos, hice un formulario en el que los usuarios de la página pueden mandar un correo o dejar un mensaje
+# Problemas
+- El principal problema que tuve durante la creación de la página fue hacer la barra de navegación, ya que no me quedaba bien porque siempre me daba un problema, pero lo solucioné buscando en google como se hacía, y tras probar varias convinaciones lo conseguí resolver para que me quedase el estilo que quería y que funcionase correctamente.
+- Otro problema que tuve 
