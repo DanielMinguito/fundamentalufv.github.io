@@ -8,5 +8,11 @@ En la página del tema que yo elegí, hablé del Chiringuito de Minguito. chirin
 En la página de información de socios puse varios links que llevan a las páginas de mis compañeros de clase.
 Por último en la página de contactanos, hice un formulario en el que los usuarios de la página pueden mandar un correo o dejar un mensaje
 # Problemas
+Todos los problemas que he tenido durante la página se deben a nque no tenía conocimientos previos por lo que no sabía hacer nada de base, por eso muchos de los problemas son que no sabía como se hacía algo y tenia que ver como se hacía.
 - El principal problema que tuve durante la creación de la página fue hacer la barra de navegación, ya que no me quedaba bien porque siempre me daba un problema, pero lo solucioné buscando en google como se hacía, y tras probar varias convinaciones lo conseguí resolver para que me quedase el estilo que quería y que funcionase correctamente.
-- Otro problema que tuve 
+- Otro problema que tuve con el formulario que había que hacer que no conseguía que funcionase correctamente, por lo que cogí como referencia la de la página que nos dio el profesor para ver como se hacía.
+- Otro problema que tuve es a la hora de hacer tabla ya que no sabia como hacerla de primeras, pero buscando como se hacía en google conseguí resolver el problema.
+- Otro de mis grandes problemas fue a la hora de hacer el css, ya que no entendía muy bien como se hacía, pero preguntando a un compañero de clase, conseguí entenderlo y hacer así todo el css de la página.
+- Otro problema que tuve fue con las fotos, ya que no conseguía que se viesen en la página pero al final el problema fue que no lo guardé en la página que debía por lo que no se abrían correctamente.
+# Conclusiones
+Como conclusión principal
