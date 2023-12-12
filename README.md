@@ -1,3 +1,5 @@
+# Quien soy
+Soy Daniel Minguito de 1º de Ingenieria Informática en la clase B
 # Descripción de la Web
 Esta web abarca varios temas nombrados en clase, en la pagina de inicio encontraremos una breve descripción de todos los temas abarcados durante la página. 
 En la página sobre mi hablo sobre quien soy que estudio y menciono mis dos animales favoritos mostrando una foto de cada uno para que se admiren, más abajo encontramos un curriculum ficticio en cual pongo en que sectores he trabajado y en donde he estudiado.
